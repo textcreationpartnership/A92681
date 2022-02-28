@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice, from a secluded Member of the House of Commons, to his Excellency, Thomas Lord Fairfax, to admonish him of the Kings danger, his own duty, and the sad consequence of oppression and tyranny. All whose extremes are onely to be avoided by His Majesties safety, and the defence of his royall person and honor. / Delivered on Saturday Decemb. 30.</title>
+            <author>Stephens, Edward, fl. 1640-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92681</idno>
+            <idno type="STC">Wing S18</idno>
+            <idno type="STC">Thomason E536_38</idno>
+            <idno type="STC">ESTC R203456</idno>
+            <idno type="EEBO-CITATION">99863407</idno>
+            <idno type="PROQUEST">99863407</idno>
+            <idno type="VID">115607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115607)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice, from a secluded Member of the House of Commons, to his Excellency, Thomas Lord Fairfax, to admonish him of the Kings danger, his own duty, and the sad consequence of oppression and tyranny. All whose extremes are onely to be avoided by His Majesties safety, and the defence of his royall person and honor. / Delivered on Saturday Decemb. 30.</title>
+                  <author>Stephens, Edward, fl. 1640-1660.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: E.S., i.e. Edward Stephens. Cf. Underdown, D. "Pride's Purge", p. 194.</note>
+                  <note>Annotation on Thomason copy: "Jan: 3d. 1649.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115607:1" rendition="simple:additions"/>
+            <p>A Letter of Advice, From a ſecluded Member of the Houſe of Commons, To his Excellency, Thomas Lord Fairfax, TO Admoniſh him of the Kings danger, his own duty, and the ſad conſequence of Oppreſſion and Tyranny.</p>
+            <p>All whoſe extremes are onely to be avoided by His Majeſties Safety, and the defence of his Royall Perſon and Honor.</p>
+            <p>
+               <hi>Delivered on Saturday Decemb.</hi> 30.</p>
+            <p>Printed in the Yeere 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115607:2"/>
+            <pb n="1" facs="tcp:115607:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is not onely rumor'd but remon<g ref="char:EOLhyphen"/>ſtrated (you, as is ſuppos'd, for<g ref="char:EOLhyphen"/>bidding it) that the Kings life muſt ſhortly paſſe upon a dangerous une<g ref="char:EOLhyphen"/>quall triall; that being (it ſeemes) the hallowed prey which theſe unſanctifi<g ref="char:EOLhyphen"/>ed ſons of the earth, reprobate to all Faith and Government, but what they pile up in their own wicked Imaginati<g ref="char:EOLhyphen"/>ons, run greedily to ſeize upon: 'tis true this Land hath been twice pollu<g ref="char:EOLhyphen"/>ted already with the blood of her Prin<g ref="char:EOLhyphen"/>ces, but how the firſt violence was vi<g ref="char:EOLhyphen"/>ſited upon the actors with an implaca<g ref="char:EOLhyphen"/>ble vengeance, and 200000. lives ſa<g ref="char:EOLhyphen"/>crificed by offended <hi>Juſtice,</hi> for a re<g ref="char:EOLhyphen"/>venge
+<pb n="2" facs="tcp:115607:3"/>of the ſecond, our Chronicles have ſufficiently witneſſed.</p>
+            <p>To kill a King the Lords Anointed, by private conſpiracy, and for particu<g ref="char:EOLhyphen"/>lar intereſts, is queſtionleſſe an impiety deſerving the extremes of hate and puniſhment, to be inflicted upon the Confederates; but for Subjects to ſolemnize their Soveraigns murder with a pretended legality, and uſurp the power to be themſelves his <hi>Judges,</hi> (then which nothing can be more re<g ref="char:EOLhyphen"/>diculous in ſence, a greater enemy to reaſon, or more oppoſite to divine and humane Lawes) muſt needs appeare a very monſtrous prodigy, &amp; affright<g ref="char:EOLhyphen"/>full to every loyall contemplation: and the rather, becauſe the act being by order, conſent or connivency, made a nationall crime, will hardly be expia<g ref="char:EOLhyphen"/>ted without a nationall ruine.</p>
+            <pb n="3" facs="tcp:115607:3"/>
+            <p>The power is now yours, you will be certain of the hearts of thouſands, and the aſſurance of their hands to juſtifie your reſolutions if they be fervent, as is hoped, for the Kings ſafety: and the meanes is likewiſe not wanting to make a timely prevention of the moſt exe<g ref="char:EOLhyphen"/>crable villany that ever tainted any Chriſtian King<g ref="char:EOLhyphen"/>dome: Let not therefore ſo generall an expectation re<g ref="char:EOLhyphen"/>lying (under God) upon your ſelf alone, be beguiled, but rowze your ſelfe my Lord, to ſuppreſſe theſe blaſ<g ref="char:EOLhyphen"/>phemers, your deſigne (in this particular) being en<g ref="char:EOLhyphen"/>compaſſed with the Ordinances of God to guard it: His Angells to be your guide, and a juſt cauſe to make you triumphant, by which religious undertaking, your life will be made honourable, your memory renowned; whereas,</p>
+            <p>If you ſleight this opportunity (whereof heaven and men invite you to ſo glorious a triall) and faſhion your ſelfe to behold your Soveraignes fall, with com<g ref="char:EOLhyphen"/>manding, or indifferent eyes, what can you then expect, when the next danger ſhall look black upon your ſelfe like a doomes day, but trembling from a divine wrath, &amp; judgments that are due to ſuch a guilty Aſpirer: for though you ſtrip Majeſty naked, &amp; rob him of all his regall State, and Ornaments, yet that will be your Epi<g ref="char:EOLhyphen"/>there.</p>
+            <p>Make (my Lord) <hi>Quintus Curtius</hi> your companion, but for a few houres, and he will offer you the full view of a famous Traytor, call'd <hi>Beſſus,</hi> whoſe ſtory be plea<g ref="char:EOLhyphen"/>ſed to make ſo far your owne, as by a wiſe anticipation of Loyalty, to decline both his fault and fortune: That Bactrian Generall would have no pity upon his wofull Lord, diſtreſſed <hi>Darius,</hi> a Prince whom for mer
+<pb n="4" facs="tcp:115607:4"/>misfortunes had diſarmed of all defence, and humbled him to the diſdaines and oppreſſion of that his moſt wicked ſervant; who firſt finiſhed his Lords Tragedy with diſhonourable wounds, ſaw himſelfe next made King of <hi>Bactria,</hi> by a military Election. And laſtly, in chaines, within few moneths at the mercy of a juſt <hi>Alexander,</hi> who not onely deſigned him to a deſerved death, but appointed him the way to it by moſt exqui<g ref="char:EOLhyphen"/>ſite torments for his preſumption and trechery: Be<g ref="char:EOLhyphen"/>lieve it my Lord, the Throne that was temperate to King <hi>Charles,</hi> will be (to you) a burning one.</p>
+            <p>The rents in the Church; the Diviſions among the People, with the violation of Lawes, Liberties and Government, all carry your name, and you the bur<g ref="char:EOLhyphen"/>den of a generall diſlike, for allowing protection to ſuch outragious inſolencies as are acted daily; your ſelfe not marking (ſo blind is Ambition) what looſe earth the ſtate of your own fortune ſtands upon; rea<g ref="char:EOLhyphen"/>dy, by the removing of a few weak props, to ſink un<g ref="char:EOLhyphen"/>der you at the pleaſure onely of your underminers, who (it is ſtrongly fancied) are now digging your Lord<g ref="char:EOLhyphen"/>ſhips grave.</p>
+            <p>If any <hi>Peters</hi> live about you, which having finally denied their Maſter, would tempt you Sir to the ſame infidelity, upon perill of your ſoul my Lord, bid that Satan avoid, and caſt his charmes behind you, it being certain that if his Majeſty die by the meanes, as is pro<g ref="char:EOLhyphen"/>jected, not onely Religion, and the ancient honor of the Noble Engliſh Nation, (whereof your Lordſhip pretends to be the ſelected Champion) but your own peace of Conſcience, and hope of heaven for ever,
+<pb n="5" facs="tcp:115607:4"/>muſt die with him: for could <hi>Judas</hi> repent, after he had betraied the innocent blood? you ſee it was im<g ref="char:EOLhyphen"/>poſſible: yet <hi>Iudas</hi> was an Apoſtle, who it is beleeved wrought more miracles in a few moneths by the Word, then your Lordſhip ſhall ever be able to do by your ſword, though the yeeres of your life might be ten times doubled.</p>
+            <p>The Meſſage of <hi>Pilates</hi> wife to her husband, in the behalf of <hi>Gods moſt holy Son,</hi> will be the beſt concluſion and advertiſement to your Lordſhip touching his <hi>Royall Lievetenant,</hi> and your dread Soveraigne <hi>Charles: Have thou nothing to do with that juſt man:</hi> ſuffer any thing, ſleeping or waking for his preſervation, but let his life be the Jewell of your care, from that infallible and grounded Principle of <hi>David: Deſtroy him not, for who can ſtretch forth his hand againſt the Lords Anointed, and be innocent!</hi>
+            </p>
+            <closer>Which is the humble Prayer not onely of your Lordſhips ſervant, but of all honeſt men, whoſe eyes now look upon you for the Kings deliverance,
+<signed>E.S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
